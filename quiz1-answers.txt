@@ -1,0 +1,151 @@
+## Quiz #1: Chapters 1 to 3
+# Question 'ab': True or false: In 802.11, the term active scanning refers to the way in which access points actively scan for new clients
+ab=
+# Question 'ac': True or false: A unique socket number must be provided by the application when calling the socket() function to create a socket
+ac=
+# Question 'ad': True or false: The larger the bandwidth delay product, the more bits a sender must send before receiving acknowledgement
+ad=
+# Question 'ae': True or false: Selective Acknowledgement involves sending ACKS when something that might affect throughput occurs, thus reducing the number of ACKs that need to be sent
+ae=
+# Question 'af': True or false: It is possible for the aggregate throughput through a switch to be many times the maximum bandwidth of each of its ports
+af=
+# Question 'ag': True or false: For a host to request a virtual circuit to be established, it is also required that the network administrator configures the virtual circuit
+ag=
+# Question 'ah': True or false: 4B/5B encoding allows the encoding of control signals using spare valid 5-bit sequences
+ah=
+# Question 'ai': True or false: Frequency Division Multiplexing divides a communications channel based on radio frequency
+ai=
+# Question 'aj': True or false: For long-distance oceanic internet cable links minimising the bandwidth delay product is a primary goal
+aj=
+# Question 'ak': True or false: Only up to the network layer is required to run on all nodes in the OSI model
+ak=
+# Question 'al': True or false: The medium network links use is a common way to characterise them
+al=
+# Question 'am': True or false: HDLC avoids the need to send extra bits when long sequences of 1s are sent
+am=
+# Question 'an': True or false: In 802.11, if a client receives a beacon, it does not need to send a probe frame before sending an access request
+an=
+# Question 'ao': True or false: The original Wi-Fi standard was limited to 11Mbits per second
+ao=
+# Question 'ap': True or false: DDCMP is a bit-oriented framing protocol used in DECNet
+ap=
+# Question 'aq': True or false: The exposed node problem occurs when a transmitter can hear transmissions from a node which is too far away to interfere with the reception of the first node
+aq=
+# Question 'ar': True or false: ISDN is many times faster than dial-up connections
+ar=
+# Question 'as': True or false: In a virtual-circuit network, a virtual connection between the source and destination host must first be established, before data can be sent between them
+as=
+# Question 'at': True or false: In 10Base2, the 2 refers to the speed, i.e., 2Mbit/sec
+at=
+# Question 'au': True or false: PPP framing can only be used to encapsulate Internet Protocol frames
+au=
+# Question 'av': True or false: In the stop-and-wait protocol only one data frame can be pending acknowledgement at a time
+av=
+# Question 'aw': True or false: A network should hide errors that occur during transmission
+aw=
+# Question 'ax': True or false: The network API provides the syntax by which network services can be accessed
+ax=
+# Question 'ay': True or false: The maximum sequence number must be larger than double the Sending Window Size minus 1
+ay=
+# Question 'az': True or false: An Ethernet adaptor will normally receive all frames addressed to its own Ethernet address, the broadcast address and any subscribed multi-cast addresses
+az=
+# Question 'ba': True or false: Greater bandwidth implies a faster network
+ba=
+# Question 'bb': True or false: The Sliding Window protocol is more efficient than stop-and-wait for high bandwidth delay product links
+bb=
+# Question 'bc': True or false: In 802.11, access points respond to client association requests with an association response frame
+bc=
+# Question 'bd': True or false: Packet-switched networks process packets and streams rather than frames
+bd=
+# Question 'be': True or false: NRZ encoding includes an explicit clock that can be used by clock recovery logic
+be=
+# Question 'bf': True or false: When a packet is sent on a connectionless network, the sender has to provide the information for the path the packet should take
+bf=
+# Question 'bg': True or false: Wi-Fi power management is the responsibility of the operating system, with Wi-Fi focusing on the media access control and security mechanisms
+bg=
+# Question 'bh': True or false: The Internet Architecture forms an hour-glass shape with the Internet Protocol as the focal point
+bh=
+# Question 'bi': True or false: The connect() function does not return until the TCP connection has been successfully established
+bi=
+# Question 'bj': True or false: In the Internet Architecture the application layer directly interfaces to the transport, IP and (sub-)network/link layer.
+bj=
+# Question 'bk': True or false: The Internet Protocol error detection uses a 16-bit value
+bk=
+# Question 'bl': True or false: The network layer is responsible for network framing
+bl=
+# Question 'bm': True or false: The hidden node problem occurs when the transmission of two or more nodes can be received by some other node, but the transmitting nodes cannot receive the transmissions of each other
+bm=
+# Question 'bn': True or false: Error detection involves adding one or more extra bits to a frame whose values are dependent on the values of all of the other bits in the frame
+bn=
+# Question 'bo': True or false: Point-to-point and multiple access are two kinds of packet addressing
+bo=
+# Question 'bp': True or false: The broadcast address on an Ethernet network consists of all 1s
+bp=
+# Question 'bq': True or false: host-to-host connectivity is another way to describe broadcast
+bq=
+# Question 'br': True or false: Only if the sequence number less than the Largest Acceptable Frame it will be accepted
+br=
+# Question 'bs': True or false: Protocols must be inter-operable for them to serve their primary purpose
+bs=
+# Question 'bt': True or false: The accept() function carries out a passive open
+bt=
+# Question 'bu': True or false: Only four repeaters can be used in a single Ethernet cable path
+bu=
+# Question 'bv': True or false: Increased separation of software and hardware in network devices is powering network innovation
+bv=
+# Question 'bw': True or false: Error correction codes typically incur too high an overhead to be attractive
+bw=
+# Question 'bx': True or false: Bluetooth is a wireless technology often used to connect peripherals, like headphones, to cellular network towers
+bx=
+# Question 'by': True or false: In a virtual-circuit network, each switch must maintain a table of virtual-circuits
+by=
+# Question 'bz': True or false: Interference is a much greater problem for wireless communications than for modern cabled switched networks
+bz=
+# Question 'ca': True or false: Protocols define the interface between layers in a network stack
+ca=
+# Question 'cb': True or false: Switches examine the header of a packet to decide on which ports to forward the packet
+cb=
+# Question 'cc': True or false: If a sender does not receive an acknowledgement after a reasonable amount of time, it resends the acknowledgement.
+cc=
+# Question 'cd': True or false: A client normally selects the local port number it uses when making a connection.
+cd=
+# Question 'ce': True or false: One of the ways that Bluetooth reduces power consumption is through allowing slave devices to communicate directly with each other, without requiring re-transmission through the master device
+ce=
+# Question 'cf': True or false: The stop-and-wait protocol relies on timeouts if a data frame or ACK frame is list
+cf=
+# Question 'cg': True or false: For large file transfers latency is more important than bandwidth
+cg=
+# Question 'ch': True or false: Each Ethernet adaptor manufacturer is allocated address prefixes that they use to allocate Ethernet addresses to the network adaptors that they manufacture
+ch=
+# Question 'ci': True or false: Sequence numbers can be reused throughout the life of a connection
+ci=
+# Question 'cj': True or false: If the additional bits transmitted to provide error detection match a specific expected value, then an error has been detected
+cj=
+# Question 'ck': True or false: Ethernet addresses are 6 bytes long
+ck=
+# Question 'cl': True or false: The maximum length of an Ethernet is based on limiting the maximum transmission time of a frame
+cl=
+# Question 'cm': True or false: A network is created by the operating system and allocated to the appropriate network application
+cm=
+# Question 'cn': True or false: Modulation is the process of modifying a signal, typically the frequency, amplitude or phase
+cn=
+# Question 'co': True or false: Virtual-circuits are not connection oriented, as they use virtual connections in place of physical ones
+co=
+# Question 'cp': True or false: The listen() function is called by a server each time it wishes to listen for a new connection
+cp=
+# Question 'cq': True or false: The TCP port number must be discovered using ARP before an HTTP request can be made
+cq=
+# Question 'cr': True or false: The 802.11 distribution system requires that at least one client is within range of each pair of access points in a given system, so that frames can be relayed between the access points.
+cr=
+# Question 'cs': True or false: Electrical interference and thermal noise are common sources of bit errors
+cs=
+# Question 'ct': True or false: In an Ad-hoc wireless network messages may be forwarded via several nodes to reach their destination
+ct=
+# Question 'cu': True or false: Spread-spectrum makes interference worse, because the signal is spread over a wider frequency band, and thus can interfere with more frequencies
+cu=
+# Question 'cv': True or false: When using the Sliding Window Protocol, the sender has to be willing to buffer up to LFS (Last Frame Sent) frames
+cv=
+# Question 'cw': True or false: CRCs can be selected that detect all single-bit, double-bit errors, as well as all odd numbers of errors
+cw=
+# Question 'cx': True or false: Source routing is one of the most common approaches to switching and forwarding on modern networks
+cx=
