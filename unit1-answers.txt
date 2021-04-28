@@ -1,69 +1,69 @@
 ## Specify the OSI Layer to which best matches each statement
 # Question 'ab': Which layer best fits this statement: The layer where virtual circuits can be established
-ab=
+ab=4
 # Question 'ac': Which layer best fits this statement: Is used to abstract the network for user-oriented programmes
-ac=
+ac=7
 # Question 'ad': Which layer best fits this statement: Responsible for establishing sessions
-ad=
+ad=5
 # Question 'ae': Which layer best fits this statement: Performs symbol encoding and modulation
-ae=
+ae=1
 # Question 'af': Which layer best fits this statement: Can provide transparent conversion between different file types
-af=
+af=6
 # Question 'ag': Which layer best fits this statement: Responsible for multiplexing multiple connections to a given node on the network
-ag=
+ag=4
 # Question 'ah': Which layer best fits this statement: Responsible for bit and symbol synchronisation
-ah=
+ah=1
 # Question 'ai': Which layer best fits this statement: Responsible for logical addresses of senders and receivers on a local network segment.
-ai=
+ai=3
 # Question 'aj': Which layer best fits this statement: Provides support for common services
-aj=
+aj=7
 # Question 'ak': Which layer best fits this statement: The primary layer responsible for reliable delivery of data
-ak=
+ak=4
 # Question 'al': Which layer best fits this statement: Provides globally addressable identifiers for nodes on large networks
-al=
+al=2
 # Question 'am': Which layer best fits this statement: Responsible for data encryption
-am=
+am=6
 # Question 'an': Which layer best fits this statement: Provides the interface for programmes to access network services
-an=
+an=7
 # Question 'ao': Which layer best fits this statement: Defines the physical specifications of a data connection
-ao=
+ao=1
 # Question 'ap': Which layer best fits this statement: Responsible for electromagnetic spectrum allocation
-ap=
+ap=1
 # Question 'aq': Which layer best fits this statement: Responsible for human-computer interaction
-aq=
+aq=7
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: NetBIOS Frames (NBF)
-ar=
+ar=5
 # Question 'as': To which layer does this protocol correspond?: Asynchronous Transfer Mode (ATM)
-as=
+as=2
 # Question 'at': To which layer does this protocol correspond?: LLDP-MED
-at=
+at=2
 # Question 'au': To which layer does this protocol correspond?: Telnet
-au=
+au=7
 # Question 'av': To which layer does this protocol correspond?: Distributed Multi-Link Trunking
-av=
+av=3
 # Question 'aw': To which layer does this protocol correspond?: T-carrier
-aw=
+aw=1
 # Question 'ax': To which layer does this protocol correspond?: Media Access Control (MAC)
-ax=
+ax=2
 # Question 'ay': To which layer does this protocol correspond?: IPX/SPX (SPX)
-ay=
+ay=3
 # Question 'az': To which layer does this protocol correspond?: L2F
-az=
+az=2
 # Question 'ba': To which layer does this protocol correspond?: Wi-Fi
-ba=
+ba=2
 # Question 'bb': To which layer does this protocol correspond?: SMTP
-bb=
+bb=7
 # Question 'bc': To which layer does this protocol correspond?: SOCKS
-bc=
+bc=5
 # Question 'bd': To which layer does this protocol correspond?: LattisNet
-bd=
+bd=2
 # Question 'be': To which layer does this protocol correspond?: 9P (protocol) (9P)
-be=
+be=5
 # Question 'bf': To which layer does this protocol correspond?: LocalTalk
-bf=
+bf=2
 # Question 'bg': To which layer does this protocol correspond?: Dynamic Trunking Protocol
-bg=
+bg=2
 # Question 'bh': Can applications on nodes 1 and 3 communicate?
 bh=
 # Question 'bi': If an application on node 0 sends 442 bytes of byte, how large would the PDU be at layer 5?
