@@ -1,34 +1,34 @@
 ## Socket Programming General True or False Statements
 # Question 'ab': True or false: The read() function for the C programming language can only be used to read from sockets.
-ab=
+ab=f
 # Question 'ac': True or false: The accept() function for the C programming language accepts all waiting network sockets each time it is called.
-ac=
+ac=f
 # Question 'ad': True or false: The accept() function for the C programming language creates a new socket for each received connection.
-ad=
+ad=t
 # Question 'ae': True or false: The recv() function for the C programming language is less flexible than the recvfrom() function.
-ae=
+ae=t
 # Question 'af': True or false: The bind() function for the C programming language restricts the permissions of a network socket
-af=
+af=f
 # Question 'ag': True or false: The connect() function for the C programming language normally requires the network address, but not any layer 4 address of the target.
-ag=
+ag=t
 # Question 'ah': True or false: Socket programming refers to programming using the network sockets software abstraction
-ah=
+ah=t
 # Question 'ai': True or false: The accept() function for the C programming language checks for newly received socket connections.
-ai=
+ai=t
 # Question 'aj': True or false: The recv() function for the C programming language normally waits for data to arrive, if none is waiting.
-aj=
+aj=t
 # Question 'ak': True or false: Socket programming refers to programming the sockets that accept network cables on network switches
 ak=
 # Question 'al': True or false: The connect() function for the C programming language normally requires the network address and layer 4 address of the target.
-al=
+al=f
 # Question 'am': True or false: A network socket usually contains addressing information for layer 3, but not layer 4
 am=
 # Question 'an': True or false: The send() function for the C programming language performs the same function as write(), but without the possibility to set flags.
-an=
+an=t
 # Question 'ao': True or false: The listen() function for the C programming language specifies the maximum number of connections a server can receive before the socket must be re-opened.
-ao=
+ao=t
 # Question 'ap': True or false: The socket() function for the C programming language requires a network address, to be able to create a socket.
-ap=
+ap=f
 ## Correct the lines in the supplied programme
 aq=
 ar=
