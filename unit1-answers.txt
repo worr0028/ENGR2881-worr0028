@@ -65,7 +65,7 @@ bf=2
 # Question 'bg': To which layer does this protocol correspond?: Dynamic Trunking Protocol
 bg=2
 # Question 'bh': Can applications on nodes 1 and 3 communicate?
-bh=
+bh=y
 # Question 'bi': If an application on node 0 sends 442 bytes of byte, how large would the PDU be at layer 5?
 bi=
 # Question 'bj': What is the data rate that is possible between nodes 0 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
@@ -73,7 +73,7 @@ bj=
 # Question 'bk': How many milli-seconds would it take node 0 to send 8625 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 bk=
 # Question 'bl': Can applications on nodes 1 and 5 communicate?
-bl=
+bl=y
 # Question 'bm': If an application on node 3 sends 106 bytes of byte, how large would the PDU be at layer 5?
 bm=
 # Question 'bn': What is the data rate that is possible between nodes 3 and 5? {\em Provide the exact number of kilo-bits per second as your answer.} 
@@ -81,7 +81,7 @@ bn=
 # Question 'bo': How many milli-seconds would it take node 3 to send 7724 bytes of data to node 5? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 bo=
 # Question 'bp': Can applications on nodes 2 and 1 communicate?
-bp=
+bp=n
 # Question 'bq': If an application on node 5 sends 171 bytes of byte, how large would the PDU be at layer 6?
 bq=
 # Question 'br': What is the data rate that is possible between nodes 5 and 1? {\em Provide the exact number of kilo-bits per second as your answer.} 
@@ -89,7 +89,7 @@ br=
 # Question 'bs': How many milli-seconds would it take node 5 to send 1584 bytes of data to node 1? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 bs=
 # Question 'bt': Can applications on nodes 5 and 3 communicate?
-bt=
+bt=y
 # Question 'bu': If an application on node 3 sends 306 bytes of byte, how large would the PDU be at layer 4?
 bu=
 # Question 'bv': What is the data rate that is possible between nodes 3 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
@@ -97,7 +97,7 @@ bv=
 # Question 'bw': How many milli-seconds would it take node 3 to send 3028 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 bw=
 # Question 'bx': Can applications on nodes 4 and 3 communicate?
-bx=
+bx=n
 # Question 'by': If an application on node 0 sends 714 bytes of byte, how large would the PDU be at layer 2?
 by=
 # Question 'bz': What is the data rate that is possible between nodes 0 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
@@ -105,7 +105,7 @@ bz=
 # Question 'ca': How many milli-seconds would it take node 0 to send 7657 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 ca=
 # Question 'cb': Can applications on nodes 3 and 2 communicate?
-cb=
+cb=y
 # Question 'cc': If an application on node 0 sends 763 bytes of byte, how large would the PDU be at layer 3?
 cc=
 # Question 'cd': What is the data rate that is possible between nodes 0 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
@@ -113,7 +113,7 @@ cd=
 # Question 'ce': How many milli-seconds would it take node 0 to send 4397 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 ce=
 # Question 'cf': Can applications on nodes 0 and 5 communicate?
-cf=
+cf=y
 # Question 'cg': If an application on node 4 sends 65 bytes of byte, how large would the PDU be at layer 7?
 cg=
 # Question 'ch': What is the data rate that is possible between nodes 4 and 5? {\em Provide the exact number of kilo-bits per second as your answer.} 
@@ -121,7 +121,7 @@ ch=
 # Question 'ci': How many milli-seconds would it take node 4 to send 9145 bytes of data to node 5? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 ci=
 # Question 'cj': Can applications on nodes 3 and 5 communicate?
-cj=
+cj=n
 # Question 'ck': If an application on node 1 sends 646 bytes of byte, how large would the PDU be at layer 2?
 ck=
 # Question 'cl': What is the data rate that is possible between nodes 1 and 5? {\em Provide the exact number of kilo-bits per second as your answer.} 
@@ -129,7 +129,7 @@ cl=
 # Question 'cm': How many milli-seconds would it take node 1 to send 7545 bytes of data to node 5? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 cm=
 # Question 'cn': Can applications on nodes 5 and 2 communicate?
-cn=
+cn=y
 # Question 'co': If an application on node 2 sends 460 bytes of byte, how large would the PDU be at layer 3?
 co=
 # Question 'cp': What is the data rate that is possible between nodes 2 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
@@ -137,7 +137,7 @@ cp=
 # Question 'cq': How many milli-seconds would it take node 2 to send 1080 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 cq=
 # Question 'cr': Can applications on nodes 0 and 2 communicate?
-cr=
+cr=y
 # Question 'cs': If an application on node 0 sends 326 bytes of byte, how large would the PDU be at layer 5?
 cs=
 # Question 'ct': What is the data rate that is possible between nodes 0 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
@@ -146,15 +146,15 @@ ct=
 cu=
 ## Name and describe five reliability challenges for computer networks, referring to the network layers at which these challenges either arise, or are solved.
 # Question 'cv': Reliability Challenge #0
-cv=
+cv=Misconfiguration can be reduced by automation rather than manual entries. However, if misconfiguration does occur mechanisms such as error control, flow control and congestion control all occur in the transport layer and work to keep track of data packets, check for errors and duplication and resend information that fails delivery.
 # Question 'cw': Reliability Challenge #1
-cw=
+cw=Security Breaches typically occur in the lower levels of the OSI model such as the data link layer but affects the uppers layers such as the transport later or presentation layer. To help prevent these attacks, configuration is run in the data link layer to ignore malicious ARPs.
 # Question 'cx': Reliability Challenge #2
-cx=
+cx=Poor / Outdated Equipment refer to any obsolete, compromised or redundant device can be a potential threat to the network it’s connected to. Equipment at layer 1 of the OSI model such as cables, computers or servers may need replacing for a network to perform as reliable as possible.
 # Question 'cy': Reliability Challenge #3
-cy=
+cy=Human Error can occur on the physical or application layer. This may include an incorrect setup of hardware or the misuse of software. By keeping users informed and up-to-date with a system, human errors are minimised and if one does occur it is easier to resolve.
 # Question 'cz': Reliability Challenge #4
-cz=
+cz=Incompatible Changes occur when a change you intend to make does not work as intended alongside other equipment or software. It is important to test equipment and software prior to initialising it in the network. This can affect every layer of the OSI model in a network including a new interface that would affect the application layer or even a new device that would occur in the physical layer but may affect any layer above it.
 # Question 'da': Congestion and packet loss 
 BEGIN:da
 END:da
