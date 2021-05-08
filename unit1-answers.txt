@@ -10,17 +10,17 @@ ae=1
 # Question 'af': Which layer best fits this statement: Can provide transparent conversion between different file types
 af=6
 # Question 'ag': Which layer best fits this statement: Responsible for multiplexing multiple connections to a given node on the network
-ag=4
+ag=2
 # Question 'ah': Which layer best fits this statement: Responsible for bit and symbol synchronisation
 ah=1
 # Question 'ai': Which layer best fits this statement: Responsible for logical addresses of senders and receivers on a local network segment.
-ai=3
+ai=2
 # Question 'aj': Which layer best fits this statement: Provides support for common services
 aj=7
 # Question 'ak': Which layer best fits this statement: The primary layer responsible for reliable delivery of data
 ak=4
 # Question 'al': Which layer best fits this statement: Provides globally addressable identifiers for nodes on large networks
-al=2
+al=3
 # Question 'am': Which layer best fits this statement: Responsible for data encryption
 am=6
 # Question 'an': Which layer best fits this statement: Provides the interface for programmes to access network services
@@ -33,7 +33,7 @@ ap=1
 aq=7
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: NetBIOS Frames (NBF)
-ar=5
+ar=4
 # Question 'as': To which layer does this protocol correspond?: Asynchronous Transfer Mode (ATM)
 as=2
 # Question 'at': To which layer does this protocol correspond?: LLDP-MED
@@ -41,17 +41,17 @@ at=2
 # Question 'au': To which layer does this protocol correspond?: Telnet
 au=7
 # Question 'av': To which layer does this protocol correspond?: Distributed Multi-Link Trunking
-av=3
+av=2
 # Question 'aw': To which layer does this protocol correspond?: T-carrier
 aw=1
 # Question 'ax': To which layer does this protocol correspond?: Media Access Control (MAC)
 ax=2
 # Question 'ay': To which layer does this protocol correspond?: IPX/SPX (SPX)
-ay=3
+ay=4
 # Question 'az': To which layer does this protocol correspond?: L2F
 az=2
 # Question 'ba': To which layer does this protocol correspond?: Wi-Fi
-ba=2
+ba=3
 # Question 'bb': To which layer does this protocol correspond?: SMTP
 bb=7
 # Question 'bc': To which layer does this protocol correspond?: SOCKS
