@@ -30,18 +30,18 @@ ao=t
 # Question 'ap': True or false: The socket() function for the C programming language requires a network address, to be able to create a socket.
 ap=f
 ## Correct the lines in the supplied programme
-aq=
-ar=
-as=
-at=
-au=
-av=
-aw=
-ax=
-ay=
+aq=4
+ar=9
+as=7
+at=5
+au=2
+av=6
+aw=1
+ax=3
+ay=8
 ## Correct the lines in the supplied programme
-az=
-ba=
-bb=
-bc=
-bd=
+az=5
+ba=4
+bb=3
+bc=2
+bd=1
