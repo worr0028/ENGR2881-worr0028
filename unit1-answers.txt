@@ -157,7 +157,9 @@ cy=Human Error can occur on the physical or application layer. This may include 
 cz=Incompatible Changes occur when a change you intend to make does not work as intended alongside other equipment or software. It is important to test equipment and software prior to initialising it in the network. This can affect every layer of the OSI model in a network including a new interface that would affect the application layer or even a new device that would occur in the physical layer but may affect any layer above it.
 # Question 'da': Congestion and packet loss 
 BEGIN:da
+Congestion in a computer network is the reduced quality of service that typically occurs when a network node is carrying more data than it can handle. This can lead to queuing delay, the blocking of new connections, or even packet loss. A consequence of this congestion is the decrease of network throughput. Packet loss refers to the loss of packets of information that are sent over a network after the Transmission Control Protocol breaks a file down into a send able state. The Transmission Control Protocol uses algorithms such as the 'slow start' mechanism, congestion avoidance, fast retransmit and fast recovery. These techniques are referred to as 'TCP Reno' and all play to reduce congestion and thus packet loss. However, in doing so, if packet loss has occurred due to transmission errors, a long latency or sudden delays on the wireless link and has nothing to do with congestion, the TCP may get confused and try to throughput more data than the available line rate can manage. To avoid this it is important to optimise a TCP on a wireless network as often as possible.
 END:da
 # Question 'db': In which layer is security normally implemented in the OSI layered network model? Choose two other layers, and suggest how security might be implemented in each of those layers instead. 
 BEGIN:db
+
 END:db
