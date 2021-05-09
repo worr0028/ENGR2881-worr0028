@@ -161,5 +161,5 @@ Congestion in a computer network is the reduced quality of service that typicall
 END:da
 # Question 'db': In which layer is security normally implemented in the OSI layered network model? Choose two other layers, and suggest how security might be implemented in each of those layers instead. 
 BEGIN:db
-
+Security is usually implemented in the Application Layer. This is because attacks such as worms or viruses are used and are usually given access to a network through human error. This is not the only layer that is at threat or in need or protecting. The Data Link and Network layers are two other layers that my fall under attack during a security breach. The data link layer can be attacked through ARPspoofing, MAC flooding and a spamming tree attack. The network layer however, may have difficulties with unauthorised access, endpoint identity theft and SYN flood. To minimise these risks it is important to install Private VLANs, Static ARP Entries, STP Root Priority =0 in the data link layer and to employ VPN's, Network Based Intrusion Detection, Content Filtering in the network layer.
 END:db
