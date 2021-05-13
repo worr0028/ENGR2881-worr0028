@@ -303,16 +303,32 @@ node2 node3
 END:ci
 # Question 'cj': Define a network layout that would be suitable for a Client-Server architecture}
 BEGIN:cj
-
+switch1:0 router1
+switch1:1 node1
+switch1:2 node2
+switch1:3 node3
+switch1:4 ap1
+ap1 laptop4
+ap1 laptop5
+ap1 laptop6
 END:cj
 # Question 'ck': Describe your network layout that would be suitable for a Client-Server architecture
 BEGIN:ck
+LAN connected to WAN via router. LAN consists of nodes connect via switch and adhoc(wireless) connected laptops via access point 1 also to switch.
+Server connected through WAN and router to LAN based clients.
 END:ck
 # Question 'cl': Define a network layout that would be suitable for a Peer-to-Peer architecture}
 BEGIN:cl
+node1 node2
+node1 node3
+node1 node4
+node2 node3
+node2 node4
+node3 node4
 END:cl
 # Question 'cm': Describe your peer-to-peer network topology.
 BEGIN:cm
+Full mesh topology used to maximise number of paths between peers.
 END:cm
 ## Write statements that are true or false for various lecture slides.
 # Question 'cn': Do you grant your following quiz questions to the public domain?
