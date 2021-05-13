@@ -332,24 +332,24 @@ Full mesh topology used to maximise number of paths between peers.
 END:cm
 ## Write statements that are true or false for various lecture slides.
 # Question 'cn': Do you grant your following quiz questions to the public domain?
-cn=
+cn=y
 # Question 'co': Write a false statement about the content of Slide 88 of Chapter 3
-co=
+co=Address Resolution Protocol is never used to map IP addresses into physical addresses.
 # Question 'cp': Write a false statement about the content of Slide 87 of Chapter 2
-cp=
+cp=An ethernet Hub is an intelligent device used to route server traffic.
 # Question 'cq': Write a true statement about the content of Slide 96 of Chapter 3
-cq=
+cq=A routing table is built by a routing algorithm before the forwarding table is built.
 # Question 'cr': Write a true statement about the content of Slide 57 of Chapter 2
-cr=
+cr=The stop and wait protocol will respond according to different scenarios to ensure data is tranferred.
 # Question 'cs': Write a true statement about the content of Slide 13 of Chapter 3
-cs=
+cs=With datagrams every packet contains the complete destination address.
 # Question 'ct': Write a false statement about the content of Slide 57 of Chapter 2
-ct=
+ct=The stop and wait protocol sends packets without waiting for an acknowledgement.
 # Question 'cu': Write a true statement about the content of Slide 96 of Chapter 2
-cu=
+cu=In the ethernet transmitter algorithm a transmitter will minimally send 96 bits in the case of a collision.
 # Question 'cv': Write a false statement about the content of Slide 38 of Chapter 1
-cv=
+cv=In the Client server model with TCP once a connection is established the application process invokes only the send operation.
 # Question 'cw': Write a false statement about the content of Slide 30 of Chapter 1
-cw=
+cw=When creating a socket the interface defines only one operation to close the socket.
 # Question 'cx': Write a false statement about the content of Slide 115 of Chapter 3
-cx=
+cx=Nodes will bbe added to a non-confirmed list in shortest path routing.
