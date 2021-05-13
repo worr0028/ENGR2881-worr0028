@@ -281,13 +281,29 @@ node7 node4
 END:cg
 # Question 'ch': Define a network that consists of a star network and a tree network connected by a bus}
 BEGIN:ch
-
+bus1 switch1:0
+switch1:1 node1
+switch1:2 node2
+bus1 bus2
+bus2 switch2:0
+switch2:1 node3
+switch2:2 node4
+bus2 switch3:0
+switch3:1 node5
+switch3:2 node6
 END:ch
 # Question 'ci': Define a network that consists of a line network and a ad-hoc network connected by a switch}
 BEGIN:ci
+switch1:0 ap1
+ap1 laptop1
+ap1 laptop2
+switch1:3 node1
+node1 node2
+node2 node3
 END:ci
 # Question 'cj': Define a network layout that would be suitable for a Client-Server architecture}
 BEGIN:cj
+
 END:cj
 # Question 'ck': Describe your network layout that would be suitable for a Client-Server architecture
 BEGIN:ck
