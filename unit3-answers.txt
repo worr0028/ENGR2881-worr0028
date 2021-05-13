@@ -163,13 +163,32 @@ ap1 laptop3
 END:bw
 # Question 'bx': Define a network that consists of a ring network and a line network connected by a node}
 BEGIN:bx
-
+node1 laptop1
+laptop1 laptop2
+laptop1 laptop4
+laptop4 laptop3
+laptop3 laptop2
+node1 node2
+node2 node3
+node3 node4
 END:bx
 # Question 'by': Define a network that consists of a star network and a line network connected by a router}
 BEGIN:by
+router1 swtich1:3
+swtich1:0 node1
+switch1:2 node2
+router1 node3
+node3 node4
+node4 node
 END:by
 # Question 'bz': Define a network that consists of a wireless network and a star network connected by a switch}
 BEGIN:bz
+swtich1:4 ap1
+ap1 node1
+ap1 node2
+switch1:1 switch2:4
+switch2:1 node3
+swtich2:2 node4
 END:bz
 # Question 'ca': Define a network that consists of a tree network and a ad-hoc network connected by a node}
 BEGIN:ca
