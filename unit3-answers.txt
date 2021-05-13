@@ -15,7 +15,7 @@ ah=f
 # Question 'ai': True or false: The topology of this network is a ring
 ai=f
 # Question 'aj': True or false: The topology of this network is a wireless
-aj=t
+aj=f
 # Question 'ak': True or false: The topology of this network is a line
 ak=f
 # Question 'al': True or false: The topology of this network is a tree
@@ -25,7 +25,7 @@ am=t
 # Question 'an': True or false: The topology of this network is a full mesh
 an=f
 # Question 'ao': True or false: The topology of this network is a star
-ao=f
+ao=t
 # Question 'ap': True or false: The topology of this network is a bus
 ap=f
 # Question 'aq': True or false: The topology of this network is a bus
@@ -39,45 +39,45 @@ at=t
 # Question 'au': True or false: The topology of this network is a wireless
 au=t
 # Question 'av': True or false: The topology of this network is a line
-av=
+av=t
 # Question 'aw': True or false: The topology of this network is a full mesh
-aw=
+aw=f
 # Question 'ax': True or false: The topology of this network is a full mesh
-ax=
+ax=f
 # Question 'ay': True or false: The topology of this network is a star
-ay=
+ay=t
 # Question 'az': True or false: The topology of this network is a full mesh
-az=
+az=f
 # Question 'ba': True or false: The topology of this network is a line
-ba=
+ba=f
 # Question 'bb': True or false: The topology of this network is a ring
-bb=
+bb=t
 # Question 'bc': True or false: The topology of this network is a line
-bc=
+bc=t
 # Question 'bd': True or false: The topology of this network is a tree
-bd=
+bd=t
 # Question 'be': True or false: The topology of this network is a ring
-be=
+be=t
 # Question 'bf': True or false: The topology of this network is a ring
-bf=
+bf=f
 # Question 'bg': True or false: The topology of this network is a tree
-bg=
+bg=t
 # Question 'bh': True or false: The topology of this network is a star
-bh=
+bh=f
 # Question 'bi': True or false: The topology of this network is a full mesh
-bi=
+bi=f
 # Question 'bj': True or false: The topology of this network is a bus
-bj=
+bj=f
 # Question 'bk': True or false: The topology of this network is a full mesh
-bk=
+bk=f
 # Question 'bl': True or false: The topology of this network is a full mesh
-bl=
+bl=f
 # Question 'bm': True or false: The topology of this network is a ring
-bm=
+bm=f
 # Question 'bn': True or false: The topology of this network is a line
-bn=
+bn=f
 # Question 'bo': True or false: The topology of this network is a ad-hoc
-bo=
+bo=t
 # Question 'bp': Define a network that consists of a ad-hoc network and a line network connected by a laptop}
 BEGIN:bp
 END:bp
