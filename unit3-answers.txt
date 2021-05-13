@@ -89,9 +89,9 @@ END:bp
 # Question 'bq': Define a network that consists of a star network and a bus network connected by a switch}
 BEGIN:bq
 switch1:0 switch2:4
-switch1:4 node6
-switch1:4 node4
-switch1:4 node5
+swtich1:4 bus1
+bus node4
+bus1 node5
 switch2:0 node3
 switch2:1 node2
 switch2:5 node1
@@ -119,19 +119,51 @@ ap1 laptop6
 END:bs
 # Question 'bt': Define a network that consists of a ring network and a bus network connected by a router}
 BEGIN:bt
-
+router1 laptop3
+laptop3 laptop2
+laptop3 laptop4
+laptop4 laptop1
+laptop1 laptop2
+router1 bus1
+bus1 node1
+bubs1 node2
 END:bt
 # Question 'bu': Define a network that consists of a ring network and a ad-hoc network connected by a switch}
 BEGIN:bu
+switch1:0 node3
+node3 node2
+node3 node4
+node4 node1
+node1 node2
+switch1:4 ap1
+ap1 laptop1
+ap1 laptop2
 END:bu
 # Question 'bv': Define a network that consists of a star network and a ad-hoc network connected by a node}
 BEGIN:bv
+node1 swtich1:0
+switch1:1 node2
+switch1:2 node3
+node1 ap1
+ap1 laptop1
+ap1 laptop2
 END:bv
 # Question 'bw': Define a network that consists of a tree network and a wireless network connected by a laptop}
 BEGIN:bw
+laptop1 bus1
+bus1 switch1:0
+switch1:1 node3
+switch1:2 node4
+bus1 switch2:0
+switch2:1 node1
+switch2:2 node2
+laptop1 ap1
+ap1 laptop2
+ap1 laptop3
 END:bw
 # Question 'bx': Define a network that consists of a ring network and a line network connected by a node}
 BEGIN:bx
+
 END:bx
 # Question 'by': Define a network that consists of a star network and a line network connected by a router}
 BEGIN:by
