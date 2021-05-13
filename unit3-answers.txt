@@ -80,18 +80,46 @@ bn=f
 bo=t
 # Question 'bp': Define a network that consists of a ad-hoc network and a line network connected by a laptop}
 BEGIN:bp
+laptop1 ap1
+laptop1 laptop3
+laptop3 laptop4
+ap1 laptop2
+ap1 laptop5
 END:bp
 # Question 'bq': Define a network that consists of a star network and a bus network connected by a switch}
 BEGIN:bq
+switch1:0 switch2:4
+switch1:4 node6
+switch1:4 node4
+switch1:4 node5
+switch2:0 node3
+switch2:1 node2
+switch2:5 node1
 END:bq
 # Question 'br': Define a network that consists of a wireless network and a star network connected by a laptop}
 BEGIN:br
+laptop1 switch1:0
+switch1:1 node1
+switch1:2 node2
+switch1:3 node3
+laptop1 ap1
+ap1 laptop3
+ap1 laptop2
 END:br
 # Question 'bs': Define a network that consists of a ring network and a wireless network connected by a node}
 BEGIN:bs
+node1 laptop3
+laptop3 laptop4
+laptop3 laptop2
+laptop4 laptop1
+laptop1 laptop2
+node1 ap1
+ap1 laptop5
+ap1 laptop6
 END:bs
 # Question 'bt': Define a network that consists of a ring network and a bus network connected by a router}
 BEGIN:bt
+
 END:bt
 # Question 'bu': Define a network that consists of a ring network and a ad-hoc network connected by a switch}
 BEGIN:bu
