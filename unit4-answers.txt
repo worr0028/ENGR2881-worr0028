@@ -13,7 +13,7 @@ BEGIN:ad
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
-ae=
+ae=y
 # Question 'af': Write a false statement about the content of Slide 37 of Chapter 4
 af=
 # Question 'ag': Write a false statement about the content of Slide 104 of Chapter 2
