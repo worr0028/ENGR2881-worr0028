@@ -51,7 +51,7 @@ ay=4
 # Question 'az': To which layer does this protocol correspond?: L2F
 az=2
 # Question 'ba': To which layer does this protocol correspond?: Wi-Fi
-ba=3
+ba=1
 # Question 'bb': To which layer does this protocol correspond?: SMTP
 bb=7
 # Question 'bc': To which layer does this protocol correspond?: SOCKS
