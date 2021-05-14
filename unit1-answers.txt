@@ -10,7 +10,7 @@ ae=1
 # Question 'af': Which layer best fits this statement: Can provide transparent conversion between different file types
 af=6
 # Question 'ag': Which layer best fits this statement: Responsible for multiplexing multiple connections to a given node on the network
-ag=2
+ag=1
 # Question 'ah': Which layer best fits this statement: Responsible for bit and symbol synchronisation
 ah=1
 # Question 'ai': Which layer best fits this statement: Responsible for logical addresses of senders and receivers on a local network segment.
