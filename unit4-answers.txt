@@ -11,28 +11,28 @@ END:ac
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
 BEGIN:ad
 Logjam Attack:
-Diffie-Hellman key exchange is a cryptographic algorithm which is fundamental to different internet protocols including HTTPS, SSH, IPsec and SMTPS as well as protocols relying on TLS. Its purpose is to allow different internet protocols to agree on a shared key and negotiate a secure connection. In May 2015, a 'Logjam Attack' was designed to attack servers which used a weak Diffie-Hellman key exchange. Basically, it allowed attackers to read and modify any data passed over the connection on said network. It is like a 'FREAK attack' however, is due to a flaw in the TLS protocol rather than implementing vulnerabilities in an RSA key exchange. It affects websites, mail servers and other TLS-dependent services. The most vulnerable protocol, however, is the SMTP+StartTLS. To prevent this type of attack it is important for servers to use a 2048-bit Diffie Hellman group rather than the 1024-bit. It is also important for applicants to use the most recent versions of browsers and to continuously check for updates as Google Chrome, Mozilla Firefox, Microsoft Internet Explorer and Apple Safari as they all have deployed fixes to counter Logjam attacks. By doing these things a Logjam attack is minimized and so too is the risk of private information being leaked or edited by malicious third parties.
+Diffie-Hellman key exchange is a cryptographic algorithm which is fundamental to different internet protocols including HTTPS, SSH, IPsec and SMTPS as well as protocols relying on TLS. Its purpose is to allow different internet protocols to agree on a shared key and negotiate a secure connection. In May 2015, a 'Logjam Attack' was designed to attack servers which used a weak Diffie-Hellman key exchange. Basically, it allowed attackers to read and modify any data passed over the connection on said network. It is like a 'FREAK attack' however, is due to a flaw in the TLS protocol rather than implementing vulnerabilities in an RSA key exchange. It affects websites, mail servers and other TLS-dependent services. The most vulnerable protocol, however, is the SMTP+StartTLS. To prevent this type of attack it is important for servers to use a 2048-bit Diffie Hellman group rather than the 1024-bit. It is also important for applicants to use the most recent versions of browsers and to continuously check for updates as Google Chrome, Mozilla Firefox, Microsoft Internet Explorer and Apple Safari have all deployed fixes to counter Logjam attacks. By doing these things a Logjam attack is minimized and so too is the risk of private information being leaked or edited by malicious third parties.
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
 ae=y
 # Question 'af': Write a false statement about the content of Slide 37 of Chapter 4
-af=
+af=In a distance-vector multicast, routers do not know what the shortest paths are to certain sources.
 # Question 'ag': Write a false statement about the content of Slide 104 of Chapter 2
-ag=
+ag=When considering the ethernet transmitter algorithm, the adaptor always first delays at 51.2µs.
 # Question 'ah': Write a false statement about the content of Slide 27 of Chapter 5
-ah=
+ah=In TCP flow control, LastByteRecvd – LastByteRead ≥ MaxRcvBuffer.
 # Question 'ai': Write a false statement about the content of Slide 17 of Chapter 1
-ai=
+ai=The structure of a layered system with alternative abstractions available at a given layer is as follows, Hardware at the bottom. Host-to-host connectivity is next and finally application programs on top.
 # Question 'aj': Write a false statement about the content of Slide 12 of Chapter 3
-aj=
+aj=When looking at switching and forwarding, every host has the same address.
 # Question 'ak': Write a false statement about the content of Slide 12 of Chapter 1
-ak=
+ak=In cost-effective resource sharing, FDM stands for Fragile Division Multicast
 # Question 'al': Write a true statement about the content of Slide 11 of Chapter 2
-al=
+al=The bandwidth of certain service links is as follows, Dial-up between 28 and 56kbps. ISD is between 64 and 128kbps. FTTH (fibre to the home) is between 50mbps and 1gbps.
 # Question 'am': Write a false statement about the content of Slide 32 of Chapter 1
-am=
+am=When creating a socket, int sockfd ≠ socket(address_family, type, protocol).
 # Question 'an': Write a true statement about the content of Slide 8 of Chapter 2
-an=
+an=Practical links rely on some sort of electromagnetic radiation propagating through a medium or, in some cases, free space.
 # Question 'ao': Write a false statement about the content of Slide 3 of Chapter 4
-ao=
+ao=The chapter outline of chapter 4 – Advanced Internetworking is structured, Global Internet, Mobile IP, MPLS and finally Multicast.
