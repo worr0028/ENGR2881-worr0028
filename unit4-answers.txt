@@ -10,6 +10,8 @@ END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
 BEGIN:ad
+Logjam Attack:
+Diffie-Hellman key exchange is a cryptographic algorithm which is fundamental to different internet protocols including HTTPS, SSH, IPsec and SMTPS as well as protocols relying on TLS. Its purpose is to allow different internet protocols to agree on a shared key and negotiate a secure connection. In May 2015, a 'Logjam Attack' was designed to attack servers which used a weak Diffie-Hellman key exchange. Basically, it allowed attackers to read and modify any data passed over the connection on said network. It is like a 'FREAK attack' however, is due to a flaw in the TLS protocol rather than implementing vulnerabilities in an RSA key exchange. It affects websites, mail servers and other TLS-dependent services. The most vulnerable protocol, however, is the SMTP+StartTLS. To prevent this type of attack it is important for servers to use a 2048-bit Diffie Hellman group rather than the 1024-bit. It is also important for applicants to use the most recent versions of browsers and to continuously check for updates as Google Chrome, Mozilla Firefox, Microsoft Internet Explorer and Apple Safari as they all have deployed fixes to counter Logjam attacks. By doing these things a Logjam attack is minimized and so too is the risk of private information being leaked or edited by malicious third parties.
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
