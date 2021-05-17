@@ -2,16 +2,16 @@ NOTICE: There is a known issue with questions in section 2 of this work unit
 being graded as incorrect, even if they are correct.  I intend to correct this problem
 in the next few days.
 
-unit2 PROVISIONAL GRADE: P
+unit2 PROVISIONAL GRADE: CR
 
-NOTE: Changes made after Mon May 17 17:11:36 2021 +0930 have not yet been graded.
+NOTE: Changes made after Tue May 18 09:14:54 2021 +0930 have not yet been graded.
 
 SUMMARY: 15 true/false and yes/no questions: 10 correct, 5 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
-         14 normal questions, 9 correct.
+         14 normal questions, 11 correct.
 
 ANSWERS GRADED UNMARKED: 
-ANSWERS GRADED F:  az ba bb bc bd
+ANSWERS GRADED F:  ba bb bd
 ANSWERS GRADED P: 
 ANSWERS GRADED CR:
 ANSWERS GRADED DN:
