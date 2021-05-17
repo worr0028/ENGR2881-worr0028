@@ -40,8 +40,8 @@ aw=1
 ax=3
 ay=8
 ## Correct the lines in the supplied programme
-az=5
-ba=4
-bb=3
-bc=2
-bd=1
+az=4
+ba=3
+bb=5
+bc=1
+bd=2
