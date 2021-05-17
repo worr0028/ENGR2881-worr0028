@@ -404,26 +404,26 @@ dk=
 dl=
 # Question 'dm': For the supplied packet: Frame is 802.1ad
 #        Format: Boolean: Answer Y or N
-dm=
+dm=y
 ## Write statements that are true or false for various lecture slides.
 dn=
 # Question 'do': Write a true statement about the content of Slide 6 of Chapter 7
-do=
+do=When referring to presentation formatting in end-to-end data, data can be encoded in a message to be sent over a network.
 # Question 'dp': Write a true statement about the content of Slide 3 of Chapter 3
-dp=
+dp=The outline of chapter 3 – Internetworking is in the following order, switching and bridging, basic internetworking (IP), routing and lastly, implementation. 
 # Question 'dq': Write a true statement about the content of Slide 15 of Chapter 1
-dq=
+dq=When considering reliability in networks, a network should hide the errors.
 # Question 'dr': Write a false statement about the content of Slide 18 of Chapter 3
-dr=
+dr=The diagram about switching and forwarding shows that host B wants to send packets to host A.
 # Question 'ds': Write a false statement about the content of Slide 46 of Chapter 2
-ds=
+ds=In a cyclic redundancy check (CRC), any polynomial C(x) can be divided by a divisor polynomial B(x) if C(x) is of lower degree than B(x).
 # Question 'dt': Write a true statement about the content of Slide 105 of Chapter 6
-dt=
+dt=When looking at flowspec regarding quality of service, we can send a burst of bytes into a network as fast as we want and can also do it over a significant long interval.
 # Question 'du': Write a true statement about the content of Slide 27 of Chapter 1
-du=
+du=An internet architecture is defined by IETF and has three main features.
 # Question 'dv': Write a true statement about the content of Slide 88 of Chapter 3
-dv=
+dv=In the address resolution protocol (ARP) table entries are discarded if not refreshed. 
 # Question 'dw': Write a false statement about the content of Slide 51 of Chapter 9
-dw=
+dw=When looking at multimedia applications, the H.323 is a noticeably short protocol known for its simplicity.
 # Question 'dx': Write a true statement about the content of Slide 7 of Chapter 6
-dx=
+dx=In congestion control and resource allocation, allocating resources with any precision is difficult because resources are distributed throughout the network.
