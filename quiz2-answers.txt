@@ -1,151 +1,151 @@
 ## Quiz #2: Chapters 4 to 6
 # Question 'ab': True or false: Border Gateway Protocol speakers must provide a replacement path when deleting a previously advertised path
-ab=
+ab=t
 # Question 'ac': True or false: If the RESET flag in a TCP packet is set, the window size should be reset
-ac=
+ac=t
 # Question 'ad': True or false: Routing Areas refer to the different algorithm areas in routing protocol design
-ad=
+ad=t
 # Question 'ae': True or false: RSVP can be used for unicast, while RSVM is used for multicast flows
-ae=
+ae=t
 # Question 'af': True or false: Multicast in IP is structured as a many-to-many system
-af=
+af=t
 # Question 'ag': True or false: Transport protocols often have to contend with electromagnetic interference flipping bits in packets
-ag=
+ag=t
 # Question 'ah': True or false: If the TCP Slow Start algorithm is triggered due to sliding window exhaustion, the Slow Start procedure stops once the previous peak congestion window size is reached
-ah=
+ah=t
 # Question 'ai': True or false: The TSpec of a Flowspec describes the network service that has been requested
-ai=
+ai=t
 # Question 'aj': True or false: Each Autonomous System should contain only a single router
-aj=
+aj=t
 # Question 'ak': True or false: IPv6 does not support multicast, but instead uses its mobility features to provide the same functionality
-ak=
+ak=t
 # Question 'al': True or false: Transport protocols typically operate on fixed sized messages
-al=
+al=t
 # Question 'am': True or false: Flowspec can use a Token Bucket Filter to enforce average bandwidth allocations, however this does not work well for variable bitrate sources
-am=
+am=t
 # Question 'an': True or false: Mobile IP uses home agents, foreign addresses and foreign agents to facilitate mobility
-an=
+an=t
 # Question 'ao': True or false: Peering Points are typically only found in wireless ad-hoc networks
-ao=
+ao=t
 # Question 'ap': True or false: Many networking functions are being absorbed into cloud services
-ap=
+ap=t
 # Question 'aq': True or false: The original TCP retransmission timeout was set to the estimated RTT of the network path
-aq=
+aq=t
 # Question 'ar': True or false: Each Autonomous System has exactly one border gateway
-ar=
+ar=t
 # Question 'as': True or false: RPC is a protocol that sits on top of IP, similar to TCP and UDP
-as=
+as=t
 # Question 'at': True or false: The power of a network is often expresses as the delay divided by the throughput
-at=
+at=t
 # Question 'au': True or false: The TCP slow start algorithm increases the TCP congestion window size more slowly during the initial stages of a connection
-au=
+au=t
 # Question 'av': True or false: Flowspec is a mechanism in RSVP for providing routers with additional information to enable them to better meet quality-of-service promises
-av=
+av=t
 # Question 'aw': True or false: FIFO Queuing maintains separate queues per network flow, to improve fairness
-aw=
+aw=t
 # Question 'ax': True or false: Multicast avoids the need for each sender to maintain the list of members of the multicast group, even as members join and leave
-ax=
+ax=t
 # Question 'ay': True or false: The advertised window of a TCP connection should be at least double the bandwidth-delay product of the network path to maximise network throughput
-ay=
+ay=t
 # Question 'az': True or false: Some real-time applications can tolerate lost packets better than others
-az=
+az=t
 # Question 'ba': True or false: Multiple priority queues in FIFO queuing are typically used to ensure that an equal number of packets from each queue are sent per unit time
-ba=
+ba=t
 # Question 'bb': True or false: An example of one-to-many multicast would be online multi-player games
-bb=
+bb=t
 # Question 'bc': True or false: TCP normally buffers enough bytes to fill a reasonable sized packet on the sending side, before dispatching it
-bc=
+bc=t
 # Question 'bd': True or false: Congestion control exists to prevent senders from overrunning the capacity of intermediate devices and links on a network
-bd=
+bd=t
 # Question 'be': True or false: The Jacobson/Karels algorithm simplifies the TCP retransmission delay, by tracking only the variance in RTT, rather than the RTT itself
-be=
+be=t
 # Question 'bf': True or false: Source-based Congestion Avoidance works by having routers provide a separate packet queue for each source
-bf=
+bf=t
 # Question 'bg': True or false: Within an Autonomous System, all internal and border routers must run an inter-domain routing protocol
-bg=
+bg=t
 # Question 'bh': True or false: It is the responsibility of routers to ensure that multicast behaves correctly from the perspective of connected devices
-bh=
+bh=t
 # Question 'bi': True or false: The advertised window field in the TCP header could not be extended without messing up the sliding window protocol
-bi=
+bi=t
 # Question 'bj': True or false: UDP uses a simpler sliding window protocol than TCP
-bj=
+bj=t
 # Question 'bk': True or false: The role of a transport protocol is to present an unreliable network to applications as a reliable data transport
-bk=
+bk=t
 # Question 'bl': True or false: Key network resources to be allocated include the bandwidth of links and buffers at routers and switches
-bl=
+bl=t
 # Question 'bm': True or false: Packet lengths should be taken into account with Fair Queuing (FQ), to ensure actual fair sharing of bandwidth
-bm=
+bm=t
 # Question 'bn': True or false: Latency as well as bandwidth are important for providing the necessary Quality-of-Service for various network applications
-bn=
+bn=t
 # Question 'bo': True or false: The UDP header contains source port, destination port, checksum and length fields
-bo=
+bo=t
 # Question 'bp': True or false: Each Class A address range on IPv6 consists of an 8-bit 
-bp=
+bp=t
 # Question 'bq': True or false: Large corporations are required to connect to multiple backbones to provide redundancy
-bq=
+bq=t
 # Question 'br': True or false: TCP implements a reliable data transport for UDP
-br=
+br=t
 # Question 'bs': True or false: The TCP Slow Start algorithm exists to slow the increase in congestion window size growth before the first packet loss occurs
-bs=
+bs=t
 # Question 'bt': True or false: Rate-based networking approaches seek to minimise the packet rate on a network, so as to avoid congestion.
-bt=
+bt=t
 # Question 'bu': True or false: MPLS provides traffic engineering facilities to the Internet
-bu=
+bu=t
 # Question 'bv': True or false: Reverse Path Broadcast is used to propagate the return path for two-way multicast traffic
-bv=
+bv=t
 # Question 'bw': True or false: Border Gateway Protocol 4 assumes the Internet has a tree-based topology with back-bone providers at the root
-bw=
+bw=t
 # Question 'bx': True or false: Differentiated Servicese the port number of TCP and UDP packets to identify the required traffic class
-bx=
+bx=t
 # Question 'by': True or false: TCP can be used to transfer data using the full capacity of network links of any speed, as the sliding window algorithm will correct any out-of-order delivery
-by=
+by=t
 # Question 'bz': True or false: "Integrated Services" is a quality-of-service scheme that, among other things, allows for reservations
-bz=
+bz=t
 # Question 'ca': True or false: IPv6 improves on IPv4 by reducing the header size to increase payload size
-ca=
+ca=t
 # Question 'cb': True or false: The MSS of a TCP connection is the Maximum Segment Size, which is the MTU of the network link minus the TCP and IP header sizes
-cb=
+cb=t
 # Question 'cc': True or false: Border Gateway Protocol replaced Border Exterior Gateway Protocol so that the network of Autonomous Systems could again be structured as a tree
-cc=
+cc=t
 # Question 'cd': True or false: Both hosts and network elements are involved in congestion control and resource allocation on networks
-cd=
+cd=t
 # Question 'ce': True or false: TCP uses a three-way handshake when establishing a connection
-ce=
+ce=t
 # Question 'cf': True or false: BGP relies on providers being able to trust the advertisements provided by other providers
-cf=
+cf=t
 # Question 'cg': True or false: IPv6's 128-bit addresses are four times longer than IPv4's address, and thus allow 4x more IP addresses than IPv4, thus avoiding the risk of IP address exhaustion
-cg=
+cg=t
 # Question 'ch': True or false: If the TCP Slow Start algorithm is re-started, the Congestion Threshold is reset to 0
-ch=
+ch=t
 # Question 'ci': True or false: The TCP source port field is at byte offset 0 in the TCP header
-ci=
+ci=t
 # Question 'cj': True or false: Routers maintain separate multicast forwarding tables from unicast forwarding tables for multicast to function
-cj=
+cj=t
 # Question 'ck': True or false: When a mobile IP device moves networks, the home agent may need to send a binding warning notice
-ck=
+ck=t
 # Question 'cl': True or false: Silly Window Syndrome occurs when a TCP implementation sends many very small segments, instead of waiting to collect enough data to fill a larger segment
-cl=
+cl=t
 # Question 'cm': True or false: The DEC Bit with a queue length of 1 is used to attempt to optimise the power of the network
-cm=
+cm=t
 # Question 'cn': True or false: A significant routing problem is how to make it scale to billions of end nodes
-cn=
+cn=t
 # Question 'co': True or false: Source-based Congestion Avoidance reduces the congestion window slightly whenever the RTT increases above the average RTT
-co=
+co=t
 # Question 'cp': True or false: Randomised Early Detection (RED) drops, with a fixed probability, each arriving packet
-cp=
+cp=t
 # Question 'cq': True or false: Source Specific Multicast offers improved one-to-many multicast support for IP
-cq=
+cq=t
 # Question 'cr': True or false: The Internet's topology in the early 1990s was a full-mesh network
-cr=
+cr=t
 # Question 'cs': True or false: TCP is packet-oriented
-cs=
+cs=t
 # Question 'ct': True or false: The TCP Slow Start algorithm is triggered if the TCP sliding window is exhausted, and a collected ACK advances the sliding window, thus allowing data to again begin to be sent
-ct=
+ct=t
 # Question 'cu': True or false: Network resource allocation can be either router-centric or host-centric, or both
-cu=
+cu=t
 # Question 'cv': True or false: Flowspec solves the problem where multiple variable bit-rate services require less bandwidth than is available on average, but can transiently require more bandwidth than is available
-cv=
+cv=t
 # Question 'cw': True or false: Whenever a congestion window's worth of data has been acknowledged, the TCP congestion protcol will add one packet's worth of bytes to the congestion window size
-cw=
+cw=t
 # Question 'cx': True or false: Soft-state of network flows is required to help routers handle traffic from the flow
-cx=
+cx=t
