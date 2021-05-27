@@ -418,7 +418,7 @@ dr=The diagram about switching and forwarding shows that host B wants to send pa
 # Question 'ds': Write a false statement about the content of Slide 46 of Chapter 2
 ds=In a cyclic redundancy check (CRC), any polynomial C(x) can be divided by a divisor polynomial B(x) if C(x) is of lower degree than B(x).
 # Question 'dt': Write a true statement about the content of Slide 105 of Chapter 6
-dt=When looking at flowspec regarding quality of service, we can send a burst of bytes into a network as fast as we want and can also do it over a significant long interval.
+dt=When looking at flowspec regarding quality of service, we can send a burst of as many as B bytes into a network as fast as we want however, over a significantly long interval we cannot send more than r bytes per second.
 # Question 'du': Write a true statement about the content of Slide 27 of Chapter 1
 du=An internet architecture is defined by IETF and has three main features.
 # Question 'dv': Write a true statement about the content of Slide 88 of Chapter 3
