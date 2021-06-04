@@ -1,17 +1,17 @@
 unit3 PROVISIONAL GRADE: CR
 
-NOTE: Changes made after Fri Jun 4 13:12:37 2021 +0930 have not yet been graded.
+NOTE: Changes made after Fri Jun 4 13:40:02 2021 +0930 have not yet been graded.
 
 SUMMARY: 40 true/false and yes/no questions: 36 correct, 4 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
          1 normal questions, 1 correct.
-         34 long-form questions, grade distribution: Ix0 Fx1 Px0 CRx5 DNx2 HDx13
+         34 long-form questions, grade distribution: Ix0 Fx1 Px0 CRx5 DNx3 HDx13
 
-ANSWERS GRADED UNMARKED:  bp br bt bw bz cf ch cj ck cl cp cr cu
+ANSWERS GRADED UNMARKED:  bp br bt bw bz cf ch ck cl cp cr cu
 ANSWERS GRADED F:  cg
 ANSWERS GRADED P: 
 ANSWERS GRADED CR: bu bv ce ci cx
-ANSWERS GRADED DN: bq cm
+ANSWERS GRADED DN: bq cj cm
 ANSWERS GRADED HD: bs bx by ca cb cc cd co cq cs ct cv cw
 ANSWERS GRADED INCOMPLETE:
 ANSWERS GRADED TOOLONG:
