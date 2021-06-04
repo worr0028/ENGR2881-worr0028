@@ -1,27 +1,20 @@
-unit5 PROVISIONAL GRADE: P
+unit5 PROVISIONAL GRADE: CR
 
-NOTE: Changes made after Fri Jun 4 10:01:19 2021 +0930 have not yet been graded.
+NOTE: Changes made after Fri Jun 4 13:12:37 2021 +0930 have not yet been graded.
 
 SUMMARY: 28 true/false and yes/no questions: 17 correct, 11 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
          63 normal questions, 0 correct.
-         10 long-form questions, grade distribution: Ix0 Fx0 Px0 CRx0 DNx1 HDx8
+         10 long-form questions, grade distribution: Ix0 Fx0 Px0 CRx0 DNx1 HDx9
 
-ANSWERS GRADED UNMARKED:  ds
+ANSWERS GRADED UNMARKED: 
 ANSWERS GRADED F: 
 ANSWERS GRADED P: 
 ANSWERS GRADED CR:
 ANSWERS GRADED DN: du
-ANSWERS GRADED HD: do dp dq dr dt dv dw dx
+ANSWERS GRADED HD: do dp dq dr ds dt dv dw dx
 ANSWERS GRADED INCOMPLETE: ac ad af ag ai am an ap aq ar as at au av aw ax ay ba bc be bf bg bh bi bk bl bn bo bp bq br bs bu bw bx bz ca cc cd cg ci ck cl cm cn co cp cr ct cu cv cw cx cy cz db dc df dg dh dk dl dn
 ANSWERS GRADED TOOLONG:
 
 NOTE: You have one or more answers classified as 'INCOMPLETE', which means 'Incomplete.'
       This means that you have one or more questions that you have not yet answered.
-
-NOTE: You have one or more answers classified as 'UNMARKED', which means that they require manual marking.
-      This means that you need to wait until I have the chance to mark thos questions.
-      Please wait patiently, and I will continue to mark all questions as quickly as I can.
-      The provisional grade above will not take these answers into account, until they have been
-      marked.  Thus it is not uncommon to see a provision grade of `F', until all answers have been
-      marked.
