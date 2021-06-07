@@ -98,7 +98,7 @@ at=21
 au=121
 # Question 'av': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-av=5d:3d:c4:12:fs:14
+av=5d:36:e4:12:f5:14
 # Question 'aw': For the supplied packet: UDP source port
 #        Format: Integer: Answer with the decimal value of the field.
 aw=2408
@@ -181,7 +181,7 @@ bm=y
 bn=11.131.227.196
 # Question 'bo': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-bo=bb:1f:bo:9c:fd:6f
+bo=bb:1f:b0:9c:fd:6f
 # Question 'bp': For the supplied packet: ARP source IP
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
 bp=73.47.28.40
@@ -214,7 +214,7 @@ bu=1
 bv=n
 # Question 'bw': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-bw=dl:c5:22:c0:6c:77
+bw=d1:c5:22:c0:6c:77
 # Packet dump:
 #	0x0000:  436c 09bc 7fce 188d c92a e8dd 0800 4500  Cl.......*....E.
 #	0x0010:  006f 0000 4000 1106 0000 c065 a53e 2b5e  .o..@......e.>+^
@@ -232,7 +232,7 @@ bx=0
 by=y
 # Question 'bz': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-bz=43.6c.09.bc.7f.ce
+bz=43:6c:09:bc:7f:ce
 # Question 'ca': For the supplied packet: TCP ACK sequence number
 #        Format: Integer: Answer with the decimal value of the field.
 ca=72
@@ -254,7 +254,7 @@ cc=19049
 #	0x0080:  21b4 f99e ffbf 71ff 6ea5 8349 280c       !.....q.n..I(.
 # Question 'cd': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
-cd=be:ea:2b:a7:48:42
+cd=be:ea:26:a7:48:42
 # Question 'ce': For the supplied packet: TCP CWR
 #        Format: Boolean: Answer Y or N
 ce=y
@@ -363,7 +363,7 @@ da=n
 #	0x0050:  3f66 76a0 8e23 4b81 0e                   ?fv..#K..
 # Question 'db': For the supplied packet: IP source address
 #        Format: IPv4 address. Answer in dotted quad notation, e.g., 129.96.1.21
-db=176.290.168.196
+db=176. 190.168.196
 # Question 'dc': For the supplied packet: ETH destination address
 #        Format: Ethernet MAC Address. Answer in the customary format, retaining leading zeroes, e.g., 02:ca:fe:f0:0d:00
 dc=c7:e3:af:ff:9a:f7
